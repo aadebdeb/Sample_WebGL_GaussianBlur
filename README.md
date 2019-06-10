@@ -1,0 +1,1 @@
+# Sample of Gaussian Blur in WebGL
